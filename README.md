@@ -11,6 +11,7 @@ This project analyzes global CO₂ emissions across different years, countries, 
 📊 Skills & Tools Used
 ✔ Python (Pandas, Matplotlib) → Data Processing & Visualization
 ✔ Jupyter Notebook → Exploratory Data Analysis (EDA)
+✔ Tableau → Interactive Dashboards & Data Storytelling
 ✔ GitHub → Version Control & Portfolio Showcase
 
 🗂 Dataset Information
@@ -31,10 +32,13 @@ This project analyzes global CO₂ emissions across different years, countries, 
 3️⃣ Analyzed CO₂ emissions trends over time.
 4️⃣ Identified top polluting countries & industries.
 
-📊 Key Visualizations
-1️⃣ Total CO₂ Emissions Over Time (Line Chart)
-2️⃣ Top 10 CO₂ Emitting Countries (Bar Chart)
-3️⃣ CO₂ Emissions by Sector (Bar Chart)
+📊 Tableau Dashboard & Visualizations
+This project includes an **interactive Tableau dashboard** with the following sheets:
+1️⃣ **CO₂ Emissions by Industry Sector** → Bar chart comparing emissions across Agriculture, Energy, Industry, Residential, and Transportation sectors.
+2️⃣ **CO₂ Emissions Trends (1990-2024)** → Line chart comparing developed vs. developing countries over time.
+3️⃣ **Total CO₂ Emissions by Country** → Highlighted bar chart showcasing the top-emitting countries.
+
+📌 View the Full Tableau Dashboard Here: [Insert Tableau Public Link]
 
 📌 Key Insights & Findings
 ✔ Global CO₂ emissions have increased over time, with spikes in industrial periods.
@@ -45,10 +49,12 @@ This project analyzes global CO₂ emissions across different years, countries, 
 1️⃣ Download the dataset & Python Notebook from this repo.
 2️⃣ Run the Python scripts in Jupyter Notebook.
 3️⃣ Explore the visualizations to understand CO₂ emission trends.
+4️⃣ Open the Tableau workbook to interact with the dashboard.
 
 📌 Future Enhancements
 ✅ Add machine learning models to predict future CO₂ emissions.
 ✅ Expand analysis with additional climate datasets.
+✅ Enhance Tableau dashboard with more granular regional trends.
 
 🚀 Final Steps
 ✅ Upload all files to GitHub  
@@ -57,3 +63,4 @@ This project analyzes global CO₂ emissions across different years, countries, 
 
 🔥 Congrats, Akash! Another portfolio project DONE. 🚀  
 Let me know when everything is uploaded, and we’ll move to the next project! 🎉💪
+

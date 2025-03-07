@@ -1,0 +1,1751 @@
+Year,Country,Sector,CO2_Emissions_MMT
+1990,USA,Transportation,193.52
+1990,USA,Industry,475.85
+1990,USA,Residential,368.68
+1990,USA,Agriculture,303.34
+1990,USA,Energy Production,86.45
+1990,Canada,Transportation,86.44
+1990,Canada,Industry,38.46
+1990,Canada,Residential,434.43
+1990,Canada,Agriculture,304.55
+1990,Canada,Energy Production,356.96
+1990,India,Transportation,20.09
+1990,India,Industry,485.26
+1990,India,Residential,417.9
+1990,India,Agriculture,114.05
+1990,India,Energy Production,99.09
+1990,China,Transportation,99.87
+1990,China,Industry,159.08
+1990,China,Residential,267.13
+1990,China,Agriculture,221.65
+1990,China,Energy Production,152.7
+1990,Germany,Transportation,309.81
+1990,Germany,Industry,78.35
+1990,Germany,Residential,153.15
+1990,Germany,Agriculture,189.52
+1990,Germany,Energy Production,233.47
+1990,UK,Transportation,394.74
+1990,UK,Industry,107.84
+1990,UK,Residential,261.97
+1990,UK,Agriculture,300.28
+1990,UK,Energy Production,32.76
+1990,France,Transportation,307.7
+1990,France,Industry,93.56
+1990,France,Residential,41.88
+1990,France,Agriculture,474.95
+1990,France,Energy Production,483.16
+1990,Brazil,Transportation,406.11
+1990,Brazil,Industry,159.26
+1990,Brazil,Residential,57.86
+1990,Brazil,Agriculture,345.27
+1990,Brazil,Energy Production,225.67
+1990,Australia,Transportation,69.8
+1990,Australia,Industry,252.64
+1990,Australia,Residential,26.85
+1990,Australia,Agriculture,455.57
+1990,Australia,Energy Production,136.8
+1990,Japan,Transportation,334.64
+1990,Japan,Industry,162.74
+1990,Japan,Residential,264.83
+1990,Japan,Agriculture,277.89
+1990,Japan,Energy Production,100.58
+1991,USA,Transportation,485.1
+1991,USA,Industry,389.82
+1991,USA,Residential,470.35
+1991,USA,Agriculture,448.47
+1991,USA,Energy Production,302.97
+1991,Canada,Transportation,461.72
+1991,Canada,Industry,53.36
+1991,Canada,Residential,106.03
+1991,Canada,Agriculture,32.16
+1991,Canada,Energy Production,169.41
+1991,India,Transportation,200.45
+1991,India,Industry,142.96
+1991,India,Residential,416.08
+1991,India,Agriculture,184.81
+1991,India,Energy Production,147.66
+1991,China,Transportation,275.92
+1991,China,Industry,79.05
+1991,China,Residential,403.08
+1991,China,Agriculture,46.53
+1991,China,Energy Production,493.57
+1991,Germany,Transportation,388.4
+1991,Germany,Industry,107.37
+1991,Germany,Residential,12.71
+1991,Germany,Agriculture,409.58
+1991,Germany,Energy Production,356.36
+1991,UK,Transportation,367.21
+1991,UK,Industry,387.92
+1991,UK,Residential,46.28
+1991,UK,Agriculture,185.65
+1991,UK,Energy Production,66.78
+1991,France,Transportation,432.92
+1991,France,Industry,315.42
+1991,France,Residential,172.14
+1991,France,Agriculture,41.14
+1991,France,Energy Production,162.38
+1991,Brazil,Transportation,169.34
+1991,Brazil,Industry,367.51
+1991,Brazil,Residential,322.4
+1991,Brazil,Agriculture,444.73
+1991,Brazil,Energy Production,241.39
+1991,Australia,Transportation,68.6
+1991,Australia,Industry,359.49
+1991,Australia,Residential,382.78
+1991,Australia,Agriculture,285.03
+1991,Australia,Energy Production,387.77
+1991,Japan,Transportation,251.96
+1991,Japan,Industry,266.14
+1991,Japan,Residential,219.5
+1991,Japan,Agriculture,22.46
+1991,Japan,Energy Production,62.87
+1992,USA,Transportation,25.4
+1992,USA,Industry,321.84
+1992,USA,Residential,164.03
+1992,USA,Agriculture,259.2
+1992,USA,Energy Production,454.71
+1992,Canada,Transportation,132.15
+1992,Canada,Industry,211.09
+1992,Canada,Residential,380.22
+1992,Canada,Agriculture,122.11
+1992,Canada,Energy Production,47.72
+1992,India,Transportation,151.98
+1992,India,Industry,89.0
+1992,India,Residential,465.55
+1992,India,Agriculture,405.98
+1992,India,Energy Production,320.37
+1992,China,Transportation,437.02
+1992,China,Industry,403.8
+1992,China,Residential,101.42
+1992,China,Agriculture,447.35
+1992,China,Energy Production,274.28
+1992,Germany,Transportation,405.65
+1992,Germany,Industry,449.08
+1992,Germany,Residential,165.82
+1992,Germany,Agriculture,63.93
+1992,Germany,Energy Production,121.69
+1992,UK,Transportation,219.28
+1992,UK,Industry,410.83
+1992,UK,Residential,431.76
+1992,UK,Agriculture,13.41
+1992,UK,Energy Production,260.27
+1992,France,Transportation,214.53
+1992,France,Industry,118.83
+1992,France,Residential,68.73
+1992,France,Agriculture,175.43
+1992,France,Energy Production,472.03
+1992,Brazil,Transportation,168.37
+1992,Brazil,Industry,264.21
+1992,Brazil,Residential,354.48
+1992,Brazil,Agriculture,188.18
+1992,Brazil,Energy Production,486.17
+1992,Australia,Transportation,481.6
+1992,Australia,Industry,133.37
+1992,Australia,Residential,253.65
+1992,Australia,Agriculture,157.43
+1992,Australia,Energy Production,149.57
+1992,Japan,Transportation,28.07
+1992,Japan,Industry,308.69
+1992,Japan,Residential,256.31
+1992,Japan,Agriculture,35.22
+1992,Japan,Energy Production,146.54
+1993,USA,Transportation,455.05
+1993,USA,Industry,127.39
+1993,USA,Residential,81.0
+1993,USA,Agriculture,249.83
+1993,USA,Energy Production,492.97
+1993,Canada,Transportation,128.61
+1993,Canada,Industry,339.35
+1993,Canada,Residential,383.19
+1993,Canada,Agriculture,126.44
+1993,Canada,Energy Production,366.83
+1993,India,Transportation,190.21
+1993,India,Industry,319.83
+1993,India,Residential,320.43
+1993,India,Agriculture,272.53
+1993,India,Energy Production,54.24
+1993,China,Transportation,419.3
+1993,China,Industry,167.18
+1993,China,Residential,101.39
+1993,China,Agriculture,29.98
+1993,China,Energy Production,299.54
+1993,Germany,Transportation,342.01
+1993,Germany,Industry,18.13
+1993,Germany,Residential,260.93
+1993,Germany,Agriculture,120.98
+1993,Germany,Energy Production,326.13
+1993,UK,Transportation,95.44
+1993,UK,Industry,348.56
+1993,UK,Residential,199.5
+1993,UK,Agriculture,469.0
+1993,UK,Energy Production,77.39
+1993,France,Transportation,177.12
+1993,France,Industry,65.6
+1993,France,Residential,463.1
+1993,France,Agriculture,439.9
+1993,France,Energy Production,136.39
+1993,Brazil,Transportation,333.39
+1993,Brazil,Industry,410.44
+1993,Brazil,Residential,282.05
+1993,Brazil,Agriculture,269.53
+1993,Brazil,Energy Production,128.51
+1993,Australia,Transportation,55.62
+1993,Australia,Industry,449.64
+1993,Australia,Residential,451.2
+1993,Australia,Agriculture,320.22
+1993,Australia,Energy Production,176.12
+1993,Japan,Transportation,181.11
+1993,Japan,Industry,365.72
+1993,Japan,Residential,449.58
+1993,Japan,Agriculture,444.67
+1993,Japan,Energy Production,392.14
+1994,USA,Transportation,324.6
+1994,USA,Industry,51.23
+1994,USA,Residential,89.2
+1994,USA,Agriculture,450.29
+1994,USA,Energy Production,307.15
+1994,Canada,Transportation,14.51
+1994,Canada,Industry,59.72
+1994,Canada,Residential,335.12
+1994,Canada,Agriculture,12.48
+1994,Canada,Energy Production,88.8
+1994,India,Transportation,278.88
+1994,India,Industry,349.03
+1994,India,Residential,329.46
+1994,India,Agriculture,119.89
+1994,India,Energy Production,358.97
+1994,China,Transportation,126.25
+1994,China,Industry,169.45
+1994,China,Residential,375.78
+1994,China,Agriculture,328.32
+1994,China,Energy Production,426.12
+1994,Germany,Transportation,332.23
+1994,Germany,Industry,288.47
+1994,Germany,Residential,55.9
+1994,Germany,Agriculture,190.18
+1994,Germany,Energy Production,139.95
+1994,UK,Transportation,129.55
+1994,UK,Industry,486.78
+1994,UK,Residential,202.62
+1994,UK,Agriculture,447.1
+1994,UK,Energy Production,319.26
+1994,France,Transportation,399.46
+1994,France,Industry,256.29
+1994,France,Residential,292.68
+1994,France,Agriculture,251.33
+1994,France,Energy Production,105.67
+1994,Brazil,Transportation,364.0
+1994,Brazil,Industry,147.58
+1994,Brazil,Residential,21.91
+1994,Brazil,Agriculture,326.28
+1994,Brazil,Energy Production,96.78
+1994,Australia,Transportation,470.82
+1994,Australia,Industry,477.43
+1994,Australia,Residential,458.28
+1994,Australia,Agriculture,191.38
+1994,Australia,Energy Production,17.57
+1994,Japan,Transportation,464.88
+1994,Japan,Industry,219.81
+1994,Japan,Residential,483.66
+1994,Japan,Agriculture,482.17
+1994,Japan,Energy Production,427.97
+1995,USA,Transportation,154.28
+1995,USA,Industry,198.7
+1995,USA,Residential,427.06
+1995,USA,Agriculture,165.29
+1995,USA,Energy Production,93.05
+1995,Canada,Transportation,282.83
+1995,Canada,Industry,468.72
+1995,Canada,Residential,351.05
+1995,Canada,Agriculture,289.33
+1995,Canada,Energy Production,57.62
+1995,India,Transportation,311.35
+1995,India,Industry,495.13
+1995,India,Residential,78.64
+1995,India,Agriculture,263.98
+1995,India,Energy Production,439.91
+1995,China,Transportation,372.98
+1995,China,Industry,351.54
+1995,China,Residential,354.22
+1995,China,Agriculture,186.15
+1995,China,Energy Production,153.86
+1995,Germany,Transportation,406.59
+1995,Germany,Industry,406.96
+1995,Germany,Residential,434.87
+1995,Germany,Agriculture,457.49
+1995,Germany,Energy Production,260.56
+1995,UK,Transportation,255.74
+1995,UK,Industry,401.16
+1995,UK,Residential,328.48
+1995,UK,Agriculture,353.96
+1995,UK,Energy Production,399.94
+1995,France,Transportation,446.1
+1995,France,Industry,175.62
+1995,France,Residential,194.04
+1995,France,Agriculture,56.05
+1995,France,Energy Production,293.36
+1995,Brazil,Transportation,27.61
+1995,Brazil,Industry,238.14
+1995,Brazil,Residential,275.9
+1995,Brazil,Agriculture,150.41
+1995,Brazil,Energy Production,299.51
+1995,Australia,Transportation,24.95
+1995,Australia,Industry,28.3
+1995,Australia,Residential,413.07
+1995,Australia,Agriculture,186.49
+1995,Australia,Energy Production,72.26
+1995,Japan,Transportation,265.9
+1995,Japan,Industry,387.3
+1995,Japan,Residential,115.75
+1995,Japan,Agriculture,315.22
+1995,Japan,Energy Production,51.82
+1996,USA,Transportation,35.32
+1996,USA,Industry,270.36
+1996,USA,Residential,274.91
+1996,USA,Agriculture,322.34
+1996,USA,Energy Production,365.78
+1996,Canada,Transportation,488.17
+1996,Canada,Industry,262.99
+1996,Canada,Residential,168.25
+1996,Canada,Agriculture,399.64
+1996,Canada,Energy Production,142.71
+1996,India,Transportation,225.1
+1996,India,Industry,48.44
+1996,India,Residential,22.42
+1996,India,Agriculture,481.7
+1996,India,Energy Production,419.63
+1996,China,Transportation,351.03
+1996,China,Industry,210.39
+1996,China,Residential,94.91
+1996,China,Agriculture,86.65
+1996,China,Energy Production,132.62
+1996,Germany,Transportation,279.12
+1996,Germany,Industry,360.15
+1996,Germany,Residential,333.5
+1996,Germany,Agriculture,147.17
+1996,Germany,Energy Production,477.88
+1996,UK,Transportation,371.57
+1996,UK,Industry,281.63
+1996,UK,Residential,309.74
+1996,UK,Agriculture,215.6
+1996,UK,Energy Production,131.39
+1996,France,Transportation,184.43
+1996,France,Industry,381.34
+1996,France,Residential,17.05
+1996,France,Agriculture,66.88
+1996,France,Energy Production,32.54
+1996,Brazil,Transportation,29.96
+1996,Brazil,Industry,429.18
+1996,Brazil,Residential,354.79
+1996,Brazil,Agriculture,242.35
+1996,Brazil,Energy Production,57.94
+1996,Australia,Transportation,250.89
+1996,Australia,Industry,242.0
+1996,Australia,Residential,94.87
+1996,Australia,Agriculture,222.59
+1996,Australia,Energy Production,205.27
+1996,Japan,Transportation,311.77
+1996,Japan,Industry,321.2
+1996,Japan,Residential,32.2
+1996,Japan,Agriculture,193.56
+1996,Japan,Energy Production,316.67
+1997,USA,Transportation,256.54
+1997,USA,Industry,429.68
+1997,USA,Residential,332.76
+1997,USA,Agriculture,89.84
+1997,USA,Energy Production,44.58
+1997,Canada,Transportation,324.79
+1997,Canada,Industry,22.99
+1997,Canada,Residential,297.03
+1997,Canada,Agriculture,470.71
+1997,Canada,Energy Production,291.98
+1997,India,Transportation,200.2
+1997,India,Industry,325.21
+1997,India,Residential,234.54
+1997,India,Agriculture,277.35
+1997,India,Energy Production,471.32
+1997,China,Transportation,199.19
+1997,China,Industry,480.98
+1997,China,Residential,453.62
+1997,China,Agriculture,105.94
+1997,China,Energy Production,43.99
+1997,Germany,Transportation,59.38
+1997,Germany,Industry,18.93
+1997,Germany,Residential,56.28
+1997,Germany,Agriculture,344.67
+1997,Germany,Energy Production,44.88
+1997,UK,Transportation,166.3
+1997,UK,Industry,423.99
+1997,UK,Residential,21.4
+1997,UK,Agriculture,409.09
+1997,UK,Energy Production,148.11
+1997,France,Transportation,67.9
+1997,France,Industry,351.4
+1997,France,Residential,318.18
+1997,France,Agriculture,439.96
+1997,France,Energy Production,370.18
+1997,Brazil,Transportation,403.71
+1997,Brazil,Industry,148.2
+1997,Brazil,Residential,96.95
+1997,Brazil,Agriculture,377.8
+1997,Brazil,Energy Production,405.35
+1997,Australia,Transportation,495.35
+1997,Australia,Industry,212.18
+1997,Australia,Residential,192.29
+1997,Australia,Agriculture,390.44
+1997,Australia,Energy Production,176.99
+1997,Japan,Transportation,466.07
+1997,Japan,Industry,430.62
+1997,Japan,Residential,220.21
+1997,Japan,Agriculture,377.93
+1997,Japan,Energy Production,379.73
+1998,USA,Transportation,60.53
+1998,USA,Industry,452.25
+1998,USA,Residential,257.57
+1998,USA,Agriculture,414.96
+1998,USA,Energy Production,166.82
+1998,Canada,Transportation,448.81
+1998,Canada,Industry,200.71
+1998,Canada,Residential,15.31
+1998,Canada,Agriculture,453.64
+1998,Canada,Energy Production,54.73
+1998,India,Transportation,166.46
+1998,India,Industry,475.53
+1998,India,Residential,475.8
+1998,India,Agriculture,290.98
+1998,India,Energy Production,319.6
+1998,China,Transportation,229.74
+1998,China,Industry,153.67
+1998,China,Residential,171.05
+1998,China,Agriculture,339.53
+1998,China,Energy Production,378.66
+1998,Germany,Transportation,397.87
+1998,Germany,Industry,396.91
+1998,Germany,Residential,54.69
+1998,Germany,Agriculture,252.27
+1998,Germany,Energy Production,38.2
+1998,UK,Transportation,279.27
+1998,UK,Industry,226.35
+1998,UK,Residential,444.98
+1998,UK,Agriculture,181.95
+1998,UK,Energy Production,67.36
+1998,France,Transportation,80.07
+1998,France,Industry,383.14
+1998,France,Residential,312.93
+1998,France,Agriculture,59.55
+1998,France,Energy Production,51.21
+1998,Brazil,Transportation,353.47
+1998,Brazil,Industry,45.65
+1998,Brazil,Residential,412.71
+1998,Brazil,Agriculture,356.06
+1998,Brazil,Energy Production,49.86
+1998,Australia,Transportation,51.57
+1998,Australia,Industry,493.45
+1998,Australia,Residential,193.39
+1998,Australia,Agriculture,191.61
+1998,Australia,Energy Production,408.27
+1998,Japan,Transportation,474.15
+1998,Japan,Industry,493.14
+1998,Japan,Residential,379.16
+1998,Japan,Agriculture,194.37
+1998,Japan,Energy Production,50.92
+1999,USA,Transportation,390.8
+1999,USA,Industry,283.62
+1999,USA,Residential,217.87
+1999,USA,Agriculture,454.11
+1999,USA,Energy Production,64.49
+1999,Canada,Transportation,251.39
+1999,Canada,Industry,15.56
+1999,Canada,Residential,239.64
+1999,Canada,Agriculture,37.59
+1999,Canada,Energy Production,68.22
+1999,India,Transportation,67.59
+1999,India,Industry,328.11
+1999,India,Residential,375.56
+1999,India,Agriculture,295.85
+1999,India,Energy Production,481.46
+1999,China,Transportation,193.69
+1999,China,Industry,150.0
+1999,China,Residential,435.61
+1999,China,Agriculture,119.56
+1999,China,Energy Production,481.98
+1999,Germany,Transportation,15.96
+1999,Germany,Industry,485.24
+1999,Germany,Residential,31.15
+1999,Germany,Agriculture,446.66
+1999,Germany,Energy Production,268.57
+1999,UK,Transportation,496.55
+1999,UK,Industry,46.16
+1999,UK,Residential,281.39
+1999,UK,Agriculture,484.96
+1999,UK,Energy Production,266.32
+1999,France,Transportation,318.41
+1999,France,Industry,350.92
+1999,France,Residential,232.73
+1999,France,Agriculture,317.5
+1999,France,Energy Production,296.31
+1999,Brazil,Transportation,451.57
+1999,Brazil,Industry,32.27
+1999,Brazil,Residential,147.67
+1999,Brazil,Agriculture,475.7
+1999,Brazil,Energy Production,446.23
+1999,Australia,Transportation,233.27
+1999,Australia,Industry,313.86
+1999,Australia,Residential,145.92
+1999,Australia,Agriculture,102.18
+1999,Australia,Energy Production,237.21
+1999,Japan,Transportation,183.14
+1999,Japan,Industry,295.99
+1999,Japan,Residential,48.09
+1999,Japan,Agriculture,487.45
+1999,Japan,Energy Production,493.24
+2000,USA,Transportation,352.1
+2000,USA,Industry,272.69
+2000,USA,Residential,161.67
+2000,USA,Agriculture,408.76
+2000,USA,Energy Production,345.52
+2000,Canada,Transportation,89.68
+2000,Canada,Industry,456.35
+2000,Canada,Residential,413.04
+2000,Canada,Agriculture,475.4
+2000,Canada,Energy Production,365.6
+2000,India,Transportation,310.57
+2000,India,Industry,214.94
+2000,India,Residential,467.04
+2000,India,Agriculture,434.37
+2000,India,Energy Production,32.16
+2000,China,Transportation,22.92
+2000,China,Industry,194.47
+2000,China,Residential,407.17
+2000,China,Agriculture,493.77
+2000,China,Energy Production,83.7
+2000,Germany,Transportation,301.12
+2000,Germany,Industry,196.64
+2000,Germany,Residential,485.26
+2000,Germany,Agriculture,422.64
+2000,Germany,Energy Production,420.78
+2000,UK,Transportation,239.66
+2000,UK,Industry,213.26
+2000,UK,Residential,143.97
+2000,UK,Agriculture,37.62
+2000,UK,Energy Production,433.71
+2000,France,Transportation,408.32
+2000,France,Industry,499.86
+2000,France,Residential,498.35
+2000,France,Agriculture,282.16
+2000,France,Energy Production,386.8
+2000,Brazil,Transportation,472.94
+2000,Brazil,Industry,426.33
+2000,Brazil,Residential,131.2
+2000,Brazil,Agriculture,230.77
+2000,Brazil,Energy Production,73.29
+2000,Australia,Transportation,477.49
+2000,Australia,Industry,307.03
+2000,Australia,Residential,122.03
+2000,Australia,Agriculture,339.13
+2000,Australia,Energy Production,312.88
+2000,Japan,Transportation,185.5
+2000,Japan,Industry,65.64
+2000,Japan,Residential,339.07
+2000,Japan,Agriculture,264.95
+2000,Japan,Energy Production,388.44
+2001,USA,Transportation,264.88
+2001,USA,Industry,427.57
+2001,USA,Residential,280.43
+2001,USA,Agriculture,284.86
+2001,USA,Energy Production,439.56
+2001,Canada,Transportation,207.71
+2001,Canada,Industry,75.67
+2001,Canada,Residential,24.1
+2001,Canada,Agriculture,380.02
+2001,Canada,Energy Production,313.95
+2001,India,Transportation,355.0
+2001,India,Industry,114.35
+2001,India,Residential,76.82
+2001,India,Agriculture,17.13
+2001,India,Energy Production,181.79
+2001,China,Transportation,299.06
+2001,China,Industry,202.2
+2001,China,Residential,224.36
+2001,China,Agriculture,453.04
+2001,China,Energy Production,180.65
+2001,Germany,Transportation,261.85
+2001,Germany,Industry,393.99
+2001,Germany,Residential,204.31
+2001,Germany,Agriculture,314.82
+2001,Germany,Energy Production,432.56
+2001,UK,Transportation,475.27
+2001,UK,Industry,82.07
+2001,UK,Residential,464.03
+2001,UK,Agriculture,251.14
+2001,UK,Energy Production,136.54
+2001,France,Transportation,234.98
+2001,France,Industry,490.22
+2001,France,Residential,251.38
+2001,France,Agriculture,171.09
+2001,France,Energy Production,320.37
+2001,Brazil,Transportation,127.67
+2001,Brazil,Industry,47.17
+2001,Brazil,Residential,73.15
+2001,Brazil,Agriculture,72.74
+2001,Brazil,Energy Production,84.43
+2001,Australia,Transportation,78.03
+2001,Australia,Industry,324.03
+2001,Australia,Residential,99.12
+2001,Australia,Agriculture,179.38
+2001,Australia,Energy Production,449.43
+2001,Japan,Transportation,242.24
+2001,Japan,Industry,337.1
+2001,Japan,Residential,94.44
+2001,Japan,Agriculture,104.22
+2001,Japan,Energy Production,30.03
+2002,USA,Transportation,92.78
+2002,USA,Industry,146.51
+2002,USA,Residential,96.74
+2002,USA,Agriculture,53.46
+2002,USA,Energy Production,69.11
+2002,Canada,Transportation,235.78
+2002,Canada,Industry,111.1
+2002,Canada,Residential,188.49
+2002,Canada,Agriculture,256.67
+2002,Canada,Energy Production,348.29
+2002,India,Transportation,29.26
+2002,India,Industry,401.71
+2002,India,Residential,317.67
+2002,India,Agriculture,50.06
+2002,India,Energy Production,438.05
+2002,China,Transportation,461.23
+2002,China,Industry,39.93
+2002,China,Residential,145.67
+2002,China,Agriculture,405.04
+2002,China,Energy Production,376.65
+2002,Germany,Transportation,100.42
+2002,Germany,Industry,112.58
+2002,Germany,Residential,191.53
+2002,Germany,Agriculture,247.42
+2002,Germany,Energy Production,312.94
+2002,UK,Transportation,190.77
+2002,UK,Industry,236.64
+2002,UK,Residential,376.26
+2002,UK,Agriculture,27.97
+2002,UK,Energy Production,133.69
+2002,France,Transportation,359.54
+2002,France,Industry,448.65
+2002,France,Residential,260.72
+2002,France,Agriculture,270.74
+2002,France,Energy Production,62.51
+2002,Brazil,Transportation,229.23
+2002,Brazil,Industry,270.98
+2002,Brazil,Residential,128.81
+2002,Brazil,Agriculture,141.93
+2002,Brazil,Energy Production,194.87
+2002,Australia,Transportation,19.83
+2002,Australia,Industry,167.82
+2002,Australia,Residential,113.61
+2002,Australia,Agriculture,170.47
+2002,Australia,Energy Production,68.68
+2002,Japan,Transportation,446.36
+2002,Japan,Industry,300.86
+2002,Japan,Residential,342.76
+2002,Japan,Agriculture,396.69
+2002,Japan,Energy Production,254.24
+2003,USA,Transportation,52.59
+2003,USA,Industry,273.18
+2003,USA,Residential,297.55
+2003,USA,Agriculture,375.27
+2003,USA,Energy Production,221.51
+2003,Canada,Transportation,72.51
+2003,Canada,Industry,149.05
+2003,Canada,Residential,187.91
+2003,Canada,Agriculture,326.5
+2003,Canada,Energy Production,289.68
+2003,India,Transportation,184.49
+2003,India,Industry,493.39
+2003,India,Residential,306.83
+2003,India,Agriculture,126.24
+2003,India,Energy Production,59.87
+2003,China,Transportation,84.9
+2003,China,Industry,130.52
+2003,China,Residential,88.73
+2003,China,Agriculture,101.42
+2003,China,Energy Production,149.7
+2003,Germany,Transportation,94.95
+2003,Germany,Industry,449.42
+2003,Germany,Residential,49.31
+2003,Germany,Agriculture,267.01
+2003,Germany,Energy Production,211.09
+2003,UK,Transportation,491.37
+2003,UK,Industry,64.9
+2003,UK,Residential,204.95
+2003,UK,Agriculture,485.04
+2003,UK,Energy Production,434.1
+2003,France,Transportation,410.37
+2003,France,Industry,136.37
+2003,France,Residential,93.73
+2003,France,Agriculture,337.64
+2003,France,Energy Production,465.39
+2003,Brazil,Transportation,282.81
+2003,Brazil,Industry,290.09
+2003,Brazil,Residential,147.19
+2003,Brazil,Agriculture,387.05
+2003,Brazil,Energy Production,101.65
+2003,Australia,Transportation,168.6
+2003,Australia,Industry,218.46
+2003,Australia,Residential,258.73
+2003,Australia,Agriculture,128.78
+2003,Australia,Energy Production,66.27
+2003,Japan,Transportation,309.2
+2003,Japan,Industry,151.43
+2003,Japan,Residential,294.81
+2003,Japan,Agriculture,85.64
+2003,Japan,Energy Production,245.76
+2004,USA,Transportation,270.97
+2004,USA,Industry,35.39
+2004,USA,Residential,174.94
+2004,USA,Agriculture,75.86
+2004,USA,Energy Production,41.05
+2004,Canada,Transportation,495.08
+2004,Canada,Industry,167.95
+2004,Canada,Residential,406.84
+2004,Canada,Agriculture,134.77
+2004,Canada,Energy Production,343.94
+2004,India,Transportation,382.51
+2004,India,Industry,301.86
+2004,India,Residential,241.07
+2004,India,Agriculture,211.8
+2004,India,Energy Production,180.95
+2004,China,Transportation,465.47
+2004,China,Industry,417.0
+2004,China,Residential,482.86
+2004,China,Agriculture,70.91
+2004,China,Energy Production,368.13
+2004,Germany,Transportation,469.79
+2004,Germany,Industry,98.8
+2004,Germany,Residential,42.58
+2004,Germany,Agriculture,373.15
+2004,Germany,Energy Production,291.49
+2004,UK,Transportation,422.5
+2004,UK,Industry,78.49
+2004,UK,Residential,399.68
+2004,UK,Agriculture,108.8
+2004,UK,Energy Production,90.19
+2004,France,Transportation,90.49
+2004,France,Industry,409.14
+2004,France,Residential,335.95
+2004,France,Agriculture,266.3
+2004,France,Energy Production,185.83
+2004,Brazil,Transportation,439.83
+2004,Brazil,Industry,202.3
+2004,Brazil,Residential,410.13
+2004,Brazil,Agriculture,225.18
+2004,Brazil,Energy Production,194.7
+2004,Australia,Transportation,236.71
+2004,Australia,Industry,157.68
+2004,Australia,Residential,376.33
+2004,Australia,Agriculture,256.33
+2004,Australia,Energy Production,123.78
+2004,Japan,Transportation,450.79
+2004,Japan,Industry,198.11
+2004,Japan,Residential,276.34
+2004,Japan,Agriculture,454.17
+2004,Japan,Energy Production,315.88
+2005,USA,Transportation,67.28
+2005,USA,Industry,470.52
+2005,USA,Residential,317.58
+2005,USA,Agriculture,174.1
+2005,USA,Energy Production,78.24
+2005,Canada,Transportation,399.07
+2005,Canada,Industry,313.84
+2005,Canada,Residential,271.4
+2005,Canada,Agriculture,448.01
+2005,Canada,Energy Production,396.41
+2005,India,Transportation,84.32
+2005,India,Industry,162.74
+2005,India,Residential,131.76
+2005,India,Agriculture,374.53
+2005,India,Energy Production,26.43
+2005,China,Transportation,289.25
+2005,China,Industry,383.6
+2005,China,Residential,439.62
+2005,China,Agriculture,177.62
+2005,China,Energy Production,412.42
+2005,Germany,Transportation,64.21
+2005,Germany,Industry,424.76
+2005,Germany,Residential,72.47
+2005,Germany,Agriculture,204.67
+2005,Germany,Energy Production,400.67
+2005,UK,Transportation,83.46
+2005,UK,Industry,122.33
+2005,UK,Residential,363.9
+2005,UK,Agriculture,362.82
+2005,UK,Energy Production,324.16
+2005,France,Transportation,350.03
+2005,France,Industry,275.93
+2005,France,Residential,133.38
+2005,France,Agriculture,179.39
+2005,France,Energy Production,98.98
+2005,Brazil,Transportation,455.14
+2005,Brazil,Industry,295.86
+2005,Brazil,Residential,206.42
+2005,Brazil,Agriculture,236.38
+2005,Brazil,Energy Production,474.17
+2005,Australia,Transportation,85.14
+2005,Australia,Industry,297.25
+2005,Australia,Residential,257.89
+2005,Australia,Agriculture,309.61
+2005,Australia,Energy Production,18.87
+2005,Japan,Transportation,437.34
+2005,Japan,Industry,466.74
+2005,Japan,Residential,286.92
+2005,Japan,Agriculture,351.36
+2005,Japan,Energy Production,462.02
+2006,USA,Transportation,356.55
+2006,USA,Industry,84.74
+2006,USA,Residential,292.38
+2006,USA,Agriculture,307.29
+2006,USA,Energy Production,217.82
+2006,Canada,Transportation,370.86
+2006,Canada,Industry,467.84
+2006,Canada,Residential,463.53
+2006,Canada,Agriculture,230.91
+2006,Canada,Energy Production,65.49
+2006,India,Transportation,492.57
+2006,India,Industry,421.06
+2006,India,Residential,71.08
+2006,India,Agriculture,461.21
+2006,India,Energy Production,436.25
+2006,China,Transportation,264.23
+2006,China,Industry,299.72
+2006,China,Residential,205.51
+2006,China,Agriculture,36.83
+2006,China,Energy Production,174.25
+2006,Germany,Transportation,403.4
+2006,Germany,Industry,12.27
+2006,Germany,Residential,173.41
+2006,Germany,Agriculture,205.1
+2006,Germany,Energy Production,273.32
+2006,UK,Transportation,460.73
+2006,UK,Industry,179.71
+2006,UK,Residential,180.01
+2006,UK,Agriculture,371.38
+2006,UK,Energy Production,231.59
+2006,France,Transportation,120.06
+2006,France,Industry,231.7
+2006,France,Residential,79.02
+2006,France,Agriculture,96.43
+2006,France,Energy Production,254.2
+2006,Brazil,Transportation,215.27
+2006,Brazil,Industry,458.27
+2006,Brazil,Residential,187.57
+2006,Brazil,Agriculture,294.49
+2006,Brazil,Energy Production,319.81
+2006,Australia,Transportation,16.42
+2006,Australia,Industry,335.13
+2006,Australia,Residential,97.24
+2006,Australia,Agriculture,480.92
+2006,Australia,Energy Production,82.84
+2006,Japan,Transportation,213.17
+2006,Japan,Industry,51.82
+2006,Japan,Residential,498.47
+2006,Japan,Agriculture,256.08
+2006,Japan,Energy Production,301.74
+2007,USA,Transportation,42.87
+2007,USA,Industry,377.48
+2007,USA,Residential,112.85
+2007,USA,Agriculture,450.05
+2007,USA,Energy Production,110.52
+2007,Canada,Transportation,103.44
+2007,Canada,Industry,27.91
+2007,Canada,Residential,241.31
+2007,Canada,Agriculture,286.77
+2007,Canada,Energy Production,42.2
+2007,India,Transportation,390.01
+2007,India,Industry,232.11
+2007,India,Residential,266.95
+2007,India,Agriculture,225.97
+2007,India,Energy Production,206.37
+2007,China,Transportation,284.22
+2007,China,Industry,86.07
+2007,China,Residential,99.14
+2007,China,Agriculture,432.27
+2007,China,Energy Production,473.6
+2007,Germany,Transportation,192.92
+2007,Germany,Industry,142.66
+2007,Germany,Residential,325.56
+2007,Germany,Agriculture,210.28
+2007,Germany,Energy Production,22.44
+2007,UK,Transportation,86.51
+2007,UK,Industry,360.83
+2007,UK,Residential,332.87
+2007,UK,Agriculture,23.28
+2007,UK,Energy Production,118.77
+2007,France,Transportation,123.23
+2007,France,Industry,339.23
+2007,France,Residential,19.66
+2007,France,Agriculture,61.01
+2007,France,Energy Production,401.96
+2007,Brazil,Transportation,97.49
+2007,Brazil,Industry,329.85
+2007,Brazil,Residential,126.71
+2007,Brazil,Agriculture,58.73
+2007,Brazil,Energy Production,129.15
+2007,Australia,Transportation,363.91
+2007,Australia,Industry,429.29
+2007,Australia,Residential,416.81
+2007,Australia,Agriculture,204.62
+2007,Australia,Energy Production,337.36
+2007,Japan,Transportation,110.44
+2007,Japan,Industry,153.64
+2007,Japan,Residential,449.2
+2007,Japan,Agriculture,16.37
+2007,Japan,Energy Production,51.9
+2008,USA,Transportation,111.86
+2008,USA,Industry,23.0
+2008,USA,Residential,98.9
+2008,USA,Agriculture,295.69
+2008,USA,Energy Production,216.5
+2008,Canada,Transportation,447.41
+2008,Canada,Industry,410.55
+2008,Canada,Residential,177.49
+2008,Canada,Agriculture,137.12
+2008,Canada,Energy Production,196.05
+2008,India,Transportation,299.24
+2008,India,Industry,141.35
+2008,India,Residential,315.83
+2008,India,Agriculture,210.61
+2008,India,Energy Production,280.5
+2008,China,Transportation,223.7
+2008,China,Industry,154.29
+2008,China,Residential,474.74
+2008,China,Agriculture,384.17
+2008,China,Energy Production,78.66
+2008,Germany,Transportation,435.55
+2008,Germany,Industry,248.84
+2008,Germany,Residential,448.33
+2008,Germany,Agriculture,401.93
+2008,Germany,Energy Production,218.35
+2008,UK,Transportation,21.01
+2008,UK,Industry,141.65
+2008,UK,Residential,275.4
+2008,UK,Agriculture,320.4
+2008,UK,Energy Production,136.36
+2008,France,Transportation,78.28
+2008,France,Industry,419.12
+2008,France,Residential,492.36
+2008,France,Agriculture,267.59
+2008,France,Energy Production,94.12
+2008,Brazil,Transportation,143.43
+2008,Brazil,Industry,19.01
+2008,Brazil,Residential,458.01
+2008,Brazil,Agriculture,67.7
+2008,Brazil,Energy Production,292.49
+2008,Australia,Transportation,144.29
+2008,Australia,Industry,281.55
+2008,Australia,Residential,329.2
+2008,Australia,Agriculture,416.57
+2008,Australia,Energy Production,111.15
+2008,Japan,Transportation,15.39
+2008,Japan,Industry,77.07
+2008,Japan,Residential,451.01
+2008,Japan,Agriculture,438.21
+2008,Japan,Energy Production,302.73
+2009,USA,Transportation,304.25
+2009,USA,Industry,335.87
+2009,USA,Residential,95.93
+2009,USA,Agriculture,458.06
+2009,USA,Energy Production,215.2
+2009,Canada,Transportation,197.74
+2009,Canada,Industry,264.27
+2009,Canada,Residential,33.01
+2009,Canada,Agriculture,91.48
+2009,Canada,Energy Production,371.64
+2009,India,Transportation,50.57
+2009,India,Industry,305.54
+2009,India,Residential,130.22
+2009,India,Agriculture,200.75
+2009,India,Energy Production,151.46
+2009,China,Transportation,184.28
+2009,China,Industry,362.33
+2009,China,Residential,155.59
+2009,China,Agriculture,287.54
+2009,China,Energy Production,243.26
+2009,Germany,Transportation,335.2
+2009,Germany,Industry,469.05
+2009,Germany,Residential,368.96
+2009,Germany,Agriculture,115.32
+2009,Germany,Energy Production,25.28
+2009,UK,Transportation,138.51
+2009,UK,Industry,301.59
+2009,UK,Residential,35.2
+2009,UK,Agriculture,253.22
+2009,UK,Energy Production,302.45
+2009,France,Transportation,173.78
+2009,France,Industry,387.75
+2009,France,Residential,62.23
+2009,France,Agriculture,46.82
+2009,France,Energy Production,366.81
+2009,Brazil,Transportation,252.79
+2009,Brazil,Industry,347.32
+2009,Brazil,Residential,223.07
+2009,Brazil,Agriculture,130.74
+2009,Brazil,Energy Production,411.36
+2009,Australia,Transportation,401.71
+2009,Australia,Industry,350.4
+2009,Australia,Residential,143.35
+2009,Australia,Agriculture,299.21
+2009,Australia,Energy Production,186.88
+2009,Japan,Transportation,54.88
+2009,Japan,Industry,459.48
+2009,Japan,Residential,77.04
+2009,Japan,Agriculture,475.62
+2009,Japan,Energy Production,228.54
+2010,USA,Transportation,100.72
+2010,USA,Industry,275.53
+2010,USA,Residential,437.74
+2010,USA,Agriculture,368.79
+2010,USA,Energy Production,405.21
+2010,Canada,Transportation,332.8
+2010,Canada,Industry,349.22
+2010,Canada,Residential,426.11
+2010,Canada,Agriculture,132.34
+2010,Canada,Energy Production,249.82
+2010,India,Transportation,118.39
+2010,India,Industry,493.96
+2010,India,Residential,472.59
+2010,India,Agriculture,29.32
+2010,India,Energy Production,355.73
+2010,China,Transportation,463.37
+2010,China,Industry,98.48
+2010,China,Residential,288.29
+2010,China,Agriculture,458.59
+2010,China,Energy Production,26.63
+2010,Germany,Transportation,351.74
+2010,Germany,Industry,155.7
+2010,Germany,Residential,462.95
+2010,Germany,Agriculture,485.82
+2010,Germany,Energy Production,472.69
+2010,UK,Transportation,242.36
+2010,UK,Industry,432.4
+2010,UK,Residential,423.83
+2010,UK,Agriculture,166.36
+2010,UK,Energy Production,416.17
+2010,France,Transportation,28.13
+2010,France,Industry,302.17
+2010,France,Residential,122.7
+2010,France,Agriculture,69.08
+2010,France,Energy Production,47.71
+2010,Brazil,Transportation,351.18
+2010,Brazil,Industry,176.54
+2010,Brazil,Residential,365.14
+2010,Brazil,Agriculture,42.02
+2010,Brazil,Energy Production,164.49
+2010,Australia,Transportation,274.35
+2010,Australia,Industry,397.45
+2010,Australia,Residential,166.19
+2010,Australia,Agriculture,316.69
+2010,Australia,Energy Production,444.13
+2010,Japan,Transportation,311.77
+2010,Japan,Industry,124.15
+2010,Japan,Residential,21.96
+2010,Japan,Agriculture,436.35
+2010,Japan,Energy Production,20.42
+2011,USA,Transportation,438.6
+2011,USA,Industry,269.18
+2011,USA,Residential,470.14
+2011,USA,Agriculture,401.4
+2011,USA,Energy Production,498.99
+2011,Canada,Transportation,181.85
+2011,Canada,Industry,385.92
+2011,Canada,Residential,206.95
+2011,Canada,Agriculture,245.14
+2011,Canada,Energy Production,317.48
+2011,India,Transportation,438.1
+2011,India,Industry,492.2
+2011,India,Residential,386.45
+2011,India,Agriculture,214.71
+2011,India,Energy Production,216.46
+2011,China,Transportation,371.42
+2011,China,Industry,127.0
+2011,China,Residential,64.13
+2011,China,Agriculture,183.76
+2011,China,Energy Production,150.75
+2011,Germany,Transportation,155.19
+2011,Germany,Industry,124.47
+2011,Germany,Residential,30.63
+2011,Germany,Agriculture,18.76
+2011,Germany,Energy Production,493.98
+2011,UK,Transportation,219.61
+2011,UK,Industry,198.32
+2011,UK,Residential,343.03
+2011,UK,Agriculture,116.94
+2011,UK,Energy Production,475.48
+2011,France,Transportation,395.31
+2011,France,Industry,53.81
+2011,France,Residential,214.61
+2011,France,Agriculture,440.77
+2011,France,Energy Production,472.92
+2011,Brazil,Transportation,239.03
+2011,Brazil,Industry,310.57
+2011,Brazil,Residential,91.85
+2011,Brazil,Agriculture,495.67
+2011,Brazil,Energy Production,123.52
+2011,Australia,Transportation,471.94
+2011,Australia,Industry,328.33
+2011,Australia,Residential,307.79
+2011,Australia,Agriculture,261.22
+2011,Australia,Energy Production,123.03
+2011,Japan,Transportation,96.5
+2011,Japan,Industry,118.04
+2011,Japan,Residential,101.35
+2011,Japan,Agriculture,392.0
+2011,Japan,Energy Production,181.56
+2012,USA,Transportation,38.34
+2012,USA,Industry,484.86
+2012,USA,Residential,443.06
+2012,USA,Agriculture,464.6
+2012,USA,Energy Production,497.5
+2012,Canada,Transportation,95.21
+2012,Canada,Industry,204.16
+2012,Canada,Residential,381.54
+2012,Canada,Agriculture,351.05
+2012,Canada,Energy Production,85.41
+2012,India,Transportation,409.76
+2012,India,Industry,119.98
+2012,India,Residential,119.67
+2012,India,Agriculture,273.12
+2012,India,Energy Production,300.54
+2012,China,Transportation,294.24
+2012,China,Industry,54.83
+2012,China,Residential,439.96
+2012,China,Agriculture,140.14
+2012,China,Energy Production,73.46
+2012,Germany,Transportation,445.49
+2012,Germany,Industry,478.27
+2012,Germany,Residential,432.44
+2012,Germany,Agriculture,406.66
+2012,Germany,Energy Production,331.07
+2012,UK,Transportation,279.92
+2012,UK,Industry,52.62
+2012,UK,Residential,210.14
+2012,UK,Agriculture,192.62
+2012,UK,Energy Production,137.28
+2012,France,Transportation,364.48
+2012,France,Industry,252.98
+2012,France,Residential,49.71
+2012,France,Agriculture,117.89
+2012,France,Energy Production,344.8
+2012,Brazil,Transportation,47.3
+2012,Brazil,Industry,427.09
+2012,Brazil,Residential,252.62
+2012,Brazil,Agriculture,245.49
+2012,Brazil,Energy Production,300.28
+2012,Australia,Transportation,414.09
+2012,Australia,Industry,180.43
+2012,Australia,Residential,342.23
+2012,Australia,Agriculture,287.21
+2012,Australia,Energy Production,140.84
+2012,Japan,Transportation,440.53
+2012,Japan,Industry,400.74
+2012,Japan,Residential,332.64
+2012,Japan,Agriculture,426.79
+2012,Japan,Energy Production,434.97
+2013,USA,Transportation,357.1
+2013,USA,Industry,420.14
+2013,USA,Residential,351.76
+2013,USA,Agriculture,343.27
+2013,USA,Energy Production,313.12
+2013,Canada,Transportation,378.83
+2013,Canada,Industry,87.72
+2013,Canada,Residential,441.63
+2013,Canada,Agriculture,437.2
+2013,Canada,Energy Production,24.33
+2013,India,Transportation,414.65
+2013,India,Industry,73.15
+2013,India,Residential,174.21
+2013,India,Agriculture,374.32
+2013,India,Energy Production,88.77
+2013,China,Transportation,410.8
+2013,China,Industry,417.75
+2013,China,Residential,258.66
+2013,China,Agriculture,13.13
+2013,China,Energy Production,150.65
+2013,Germany,Transportation,312.29
+2013,Germany,Industry,490.78
+2013,Germany,Residential,319.59
+2013,Germany,Agriculture,137.3
+2013,Germany,Energy Production,320.66
+2013,UK,Transportation,274.59
+2013,UK,Industry,392.12
+2013,UK,Residential,62.42
+2013,UK,Agriculture,382.9
+2013,UK,Energy Production,275.22
+2013,France,Transportation,481.87
+2013,France,Industry,177.52
+2013,France,Residential,319.98
+2013,France,Agriculture,466.69
+2013,France,Energy Production,60.23
+2013,Brazil,Transportation,469.24
+2013,Brazil,Industry,347.06
+2013,Brazil,Residential,43.24
+2013,Brazil,Agriculture,157.47
+2013,Brazil,Energy Production,357.0
+2013,Australia,Transportation,43.0
+2013,Australia,Industry,295.26
+2013,Australia,Residential,179.48
+2013,Australia,Agriculture,314.25
+2013,Australia,Energy Production,32.41
+2013,Japan,Transportation,437.05
+2013,Japan,Industry,487.01
+2013,Japan,Residential,484.75
+2013,Japan,Agriculture,377.33
+2013,Japan,Energy Production,73.74
+2014,USA,Transportation,381.55
+2014,USA,Industry,22.05
+2014,USA,Residential,20.84
+2014,USA,Agriculture,168.57
+2014,USA,Energy Production,249.44
+2014,Canada,Transportation,387.5
+2014,Canada,Industry,344.81
+2014,Canada,Residential,228.49
+2014,Canada,Agriculture,144.08
+2014,Canada,Energy Production,498.59
+2014,India,Transportation,218.83
+2014,India,Industry,231.18
+2014,India,Residential,90.18
+2014,India,Agriculture,399.46
+2014,India,Energy Production,349.9
+2014,China,Transportation,118.18
+2014,China,Industry,50.37
+2014,China,Residential,343.44
+2014,China,Agriculture,330.71
+2014,China,Energy Production,143.9
+2014,Germany,Transportation,475.92
+2014,Germany,Industry,84.02
+2014,Germany,Residential,221.84
+2014,Germany,Agriculture,472.37
+2014,Germany,Energy Production,215.67
+2014,UK,Transportation,322.88
+2014,UK,Industry,204.82
+2014,UK,Residential,144.37
+2014,UK,Agriculture,492.15
+2014,UK,Energy Production,210.57
+2014,France,Transportation,448.11
+2014,France,Industry,122.68
+2014,France,Residential,114.42
+2014,France,Agriculture,25.26
+2014,France,Energy Production,329.32
+2014,Brazil,Transportation,190.58
+2014,Brazil,Industry,433.54
+2014,Brazil,Residential,241.87
+2014,Brazil,Agriculture,484.41
+2014,Brazil,Energy Production,100.91
+2014,Australia,Transportation,435.63
+2014,Australia,Industry,390.53
+2014,Australia,Residential,387.75
+2014,Australia,Agriculture,423.94
+2014,Australia,Energy Production,382.9
+2014,Japan,Transportation,316.85
+2014,Japan,Industry,74.31
+2014,Japan,Residential,25.94
+2014,Japan,Agriculture,461.22
+2014,Japan,Energy Production,312.16
+2015,USA,Transportation,400.3
+2015,USA,Industry,245.95
+2015,USA,Residential,67.48
+2015,USA,Agriculture,71.34
+2015,USA,Energy Production,345.93
+2015,Canada,Transportation,220.85
+2015,Canada,Industry,108.26
+2015,Canada,Residential,250.88
+2015,Canada,Agriculture,41.46
+2015,Canada,Energy Production,295.17
+2015,India,Transportation,141.81
+2015,India,Industry,400.8
+2015,India,Residential,162.08
+2015,India,Agriculture,233.06
+2015,India,Energy Production,15.69
+2015,China,Transportation,45.5
+2015,China,Industry,202.32
+2015,China,Residential,245.17
+2015,China,Agriculture,304.01
+2015,China,Energy Production,152.91
+2015,Germany,Transportation,350.54
+2015,Germany,Industry,431.46
+2015,Germany,Residential,392.13
+2015,Germany,Agriculture,29.41
+2015,Germany,Energy Production,245.45
+2015,UK,Transportation,61.42
+2015,UK,Industry,128.6
+2015,UK,Residential,493.46
+2015,UK,Agriculture,79.82
+2015,UK,Energy Production,254.46
+2015,France,Transportation,312.9
+2015,France,Industry,354.21
+2015,France,Residential,284.23
+2015,France,Agriculture,14.79
+2015,France,Energy Production,169.97
+2015,Brazil,Transportation,263.68
+2015,Brazil,Industry,53.05
+2015,Brazil,Residential,181.81
+2015,Brazil,Agriculture,26.27
+2015,Brazil,Energy Production,48.5
+2015,Australia,Transportation,204.49
+2015,Australia,Industry,75.03
+2015,Australia,Residential,288.1
+2015,Australia,Agriculture,347.84
+2015,Australia,Energy Production,402.29
+2015,Japan,Transportation,108.07
+2015,Japan,Industry,92.07
+2015,Japan,Residential,61.24
+2015,Japan,Agriculture,321.85
+2015,Japan,Energy Production,356.17
+2016,USA,Transportation,25.48
+2016,USA,Industry,468.74
+2016,USA,Residential,35.47
+2016,USA,Agriculture,275.24
+2016,USA,Energy Production,357.44
+2016,Canada,Transportation,436.77
+2016,Canada,Industry,359.9
+2016,Canada,Residential,402.85
+2016,Canada,Agriculture,176.33
+2016,Canada,Energy Production,409.26
+2016,India,Transportation,49.26
+2016,India,Industry,448.46
+2016,India,Residential,278.32
+2016,India,Agriculture,410.48
+2016,India,Energy Production,231.64
+2016,China,Transportation,325.35
+2016,China,Industry,267.94
+2016,China,Residential,368.48
+2016,China,Agriculture,50.0
+2016,China,Energy Production,39.57
+2016,Germany,Transportation,131.08
+2016,Germany,Industry,88.18
+2016,Germany,Residential,437.17
+2016,Germany,Agriculture,117.41
+2016,Germany,Energy Production,488.17
+2016,UK,Transportation,175.08
+2016,UK,Industry,99.24
+2016,UK,Residential,396.95
+2016,UK,Agriculture,332.77
+2016,UK,Energy Production,254.12
+2016,France,Transportation,282.13
+2016,France,Industry,362.41
+2016,France,Residential,121.94
+2016,France,Agriculture,498.2
+2016,France,Energy Production,487.65
+2016,Brazil,Transportation,328.66
+2016,Brazil,Industry,107.78
+2016,Brazil,Residential,343.31
+2016,Brazil,Agriculture,45.38
+2016,Brazil,Energy Production,25.02
+2016,Australia,Transportation,136.26
+2016,Australia,Industry,236.69
+2016,Australia,Residential,435.45
+2016,Australia,Agriculture,366.31
+2016,Australia,Energy Production,373.93
+2016,Japan,Transportation,218.49
+2016,Japan,Industry,179.51
+2016,Japan,Residential,191.81
+2016,Japan,Agriculture,493.95
+2016,Japan,Energy Production,29.65
+2017,USA,Transportation,434.85
+2017,USA,Industry,293.55
+2017,USA,Residential,224.92
+2017,USA,Agriculture,365.38
+2017,USA,Energy Production,248.47
+2017,Canada,Transportation,437.98
+2017,Canada,Industry,451.34
+2017,Canada,Residential,216.64
+2017,Canada,Agriculture,145.65
+2017,Canada,Energy Production,300.25
+2017,India,Transportation,457.06
+2017,India,Industry,113.22
+2017,India,Residential,315.25
+2017,India,Agriculture,319.46
+2017,India,Energy Production,369.23
+2017,China,Transportation,74.47
+2017,China,Industry,360.75
+2017,China,Residential,455.43
+2017,China,Agriculture,98.04
+2017,China,Energy Production,126.4
+2017,Germany,Transportation,485.98
+2017,Germany,Industry,98.68
+2017,Germany,Residential,428.65
+2017,Germany,Agriculture,251.22
+2017,Germany,Energy Production,131.14
+2017,UK,Transportation,436.67
+2017,UK,Industry,228.2
+2017,UK,Residential,262.26
+2017,UK,Agriculture,186.02
+2017,UK,Energy Production,300.55
+2017,France,Transportation,90.13
+2017,France,Industry,201.63
+2017,France,Residential,485.01
+2017,France,Agriculture,136.49
+2017,France,Energy Production,331.8
+2017,Brazil,Transportation,169.34
+2017,Brazil,Industry,389.0
+2017,Brazil,Residential,74.13
+2017,Brazil,Agriculture,485.21
+2017,Brazil,Energy Production,232.36
+2017,Australia,Transportation,125.66
+2017,Australia,Industry,46.01
+2017,Australia,Residential,93.18
+2017,Australia,Agriculture,264.69
+2017,Australia,Energy Production,175.13
+2017,Japan,Transportation,416.15
+2017,Japan,Industry,221.13
+2017,Japan,Residential,131.87
+2017,Japan,Agriculture,312.4
+2017,Japan,Energy Production,356.32
+2018,USA,Transportation,91.85
+2018,USA,Industry,92.13
+2018,USA,Residential,27.97
+2018,USA,Agriculture,370.84
+2018,USA,Energy Production,335.26
+2018,Canada,Transportation,242.57
+2018,Canada,Industry,423.64
+2018,Canada,Residential,404.78
+2018,Canada,Agriculture,296.82
+2018,Canada,Energy Production,435.45
+2018,India,Transportation,110.86
+2018,India,Industry,64.84
+2018,India,Residential,142.18
+2018,India,Agriculture,37.97
+2018,India,Energy Production,270.27
+2018,China,Transportation,468.94
+2018,China,Industry,29.28
+2018,China,Residential,69.83
+2018,China,Agriculture,231.58
+2018,China,Energy Production,467.6
+2018,Germany,Transportation,164.92
+2018,Germany,Industry,258.55
+2018,Germany,Residential,30.37
+2018,Germany,Agriculture,82.69
+2018,Germany,Energy Production,493.45
+2018,UK,Transportation,482.91
+2018,UK,Industry,12.42
+2018,UK,Residential,476.39
+2018,UK,Agriculture,323.17
+2018,UK,Energy Production,435.28
+2018,France,Transportation,232.82
+2018,France,Industry,262.64
+2018,France,Residential,249.53
+2018,France,Agriculture,336.76
+2018,France,Energy Production,78.43
+2018,Brazil,Transportation,24.69
+2018,Brazil,Industry,160.89
+2018,Brazil,Residential,355.29
+2018,Brazil,Agriculture,108.91
+2018,Brazil,Energy Production,339.98
+2018,Australia,Transportation,485.26
+2018,Australia,Industry,56.01
+2018,Australia,Residential,339.58
+2018,Australia,Agriculture,227.44
+2018,Australia,Energy Production,435.39
+2018,Japan,Transportation,96.8
+2018,Japan,Industry,349.39
+2018,Japan,Residential,420.68
+2018,Japan,Agriculture,472.86
+2018,Japan,Energy Production,344.79
+2019,USA,Transportation,253.62
+2019,USA,Industry,312.75
+2019,USA,Residential,435.76
+2019,USA,Agriculture,289.6
+2019,USA,Energy Production,24.89
+2019,Canada,Transportation,466.16
+2019,Canada,Industry,347.87
+2019,Canada,Residential,341.49
+2019,Canada,Agriculture,115.68
+2019,Canada,Energy Production,332.85
+2019,India,Transportation,202.99
+2019,India,Industry,329.1
+2019,India,Residential,62.23
+2019,India,Agriculture,332.34
+2019,India,Energy Production,499.71
+2019,China,Transportation,33.62
+2019,China,Industry,488.82
+2019,China,Residential,209.38
+2019,China,Agriculture,436.67
+2019,China,Energy Production,393.37
+2019,Germany,Transportation,287.84
+2019,Germany,Industry,371.84
+2019,Germany,Residential,440.47
+2019,Germany,Agriculture,208.03
+2019,Germany,Energy Production,170.25
+2019,UK,Transportation,337.12
+2019,UK,Industry,405.84
+2019,UK,Residential,383.52
+2019,UK,Agriculture,400.93
+2019,UK,Energy Production,223.44
+2019,France,Transportation,410.74
+2019,France,Industry,68.9
+2019,France,Residential,276.8
+2019,France,Agriculture,12.82
+2019,France,Energy Production,169.05
+2019,Brazil,Transportation,189.57
+2019,Brazil,Industry,204.12
+2019,Brazil,Residential,350.78
+2019,Brazil,Agriculture,200.39
+2019,Brazil,Energy Production,229.86
+2019,Australia,Transportation,126.4
+2019,Australia,Industry,192.89
+2019,Australia,Residential,121.36
+2019,Australia,Agriculture,45.87
+2019,Australia,Energy Production,305.69
+2019,Japan,Transportation,337.42
+2019,Japan,Industry,313.55
+2019,Japan,Residential,237.11
+2019,Japan,Agriculture,196.1
+2019,Japan,Energy Production,433.03
+2020,USA,Transportation,264.35
+2020,USA,Industry,244.8
+2020,USA,Residential,22.56
+2020,USA,Agriculture,177.21
+2020,USA,Energy Production,196.3
+2020,Canada,Transportation,205.42
+2020,Canada,Industry,294.28
+2020,Canada,Residential,271.47
+2020,Canada,Agriculture,307.87
+2020,Canada,Energy Production,384.79
+2020,India,Transportation,408.36
+2020,India,Industry,361.88
+2020,India,Residential,478.21
+2020,India,Agriculture,18.93
+2020,India,Energy Production,105.93
+2020,China,Transportation,13.71
+2020,China,Industry,327.26
+2020,China,Residential,450.03
+2020,China,Agriculture,129.31
+2020,China,Energy Production,464.25
+2020,Germany,Transportation,39.53
+2020,Germany,Industry,467.87
+2020,Germany,Residential,182.3
+2020,Germany,Agriculture,59.7
+2020,Germany,Energy Production,248.08
+2020,UK,Transportation,135.82
+2020,UK,Industry,149.59
+2020,UK,Residential,160.57
+2020,UK,Agriculture,403.48
+2020,UK,Energy Production,274.19
+2020,France,Transportation,162.54
+2020,France,Industry,309.06
+2020,France,Residential,360.91
+2020,France,Agriculture,143.59
+2020,France,Energy Production,212.64
+2020,Brazil,Transportation,69.72
+2020,Brazil,Industry,98.76
+2020,Brazil,Residential,343.75
+2020,Brazil,Agriculture,98.9
+2020,Brazil,Energy Production,267.33
+2020,Australia,Transportation,357.43
+2020,Australia,Industry,62.37
+2020,Australia,Residential,287.98
+2020,Australia,Agriculture,135.72
+2020,Australia,Energy Production,481.83
+2020,Japan,Transportation,246.94
+2020,Japan,Industry,404.94
+2020,Japan,Residential,279.61
+2020,Japan,Agriculture,31.27
+2020,Japan,Energy Production,320.24
+2021,USA,Transportation,476.19
+2021,USA,Industry,304.79
+2021,USA,Residential,411.4
+2021,USA,Agriculture,443.26
+2021,USA,Energy Production,121.76
+2021,Canada,Transportation,113.9
+2021,Canada,Industry,309.38
+2021,Canada,Residential,211.4
+2021,Canada,Agriculture,421.53
+2021,Canada,Energy Production,451.01
+2021,India,Transportation,183.18
+2021,India,Industry,126.07
+2021,India,Residential,392.46
+2021,India,Agriculture,144.65
+2021,India,Energy Production,413.08
+2021,China,Transportation,217.63
+2021,China,Industry,337.1
+2021,China,Residential,56.81
+2021,China,Agriculture,315.69
+2021,China,Energy Production,231.37
+2021,Germany,Transportation,297.44
+2021,Germany,Industry,92.33
+2021,Germany,Residential,371.07
+2021,Germany,Agriculture,432.77
+2021,Germany,Energy Production,116.2
+2021,UK,Transportation,56.9
+2021,UK,Industry,21.58
+2021,UK,Residential,324.57
+2021,UK,Agriculture,307.48
+2021,UK,Energy Production,277.88
+2021,France,Transportation,123.65
+2021,France,Industry,201.54
+2021,France,Residential,301.29
+2021,France,Agriculture,253.42
+2021,France,Energy Production,494.01
+2021,Brazil,Transportation,76.86
+2021,Brazil,Industry,350.62
+2021,Brazil,Residential,208.12
+2021,Brazil,Agriculture,219.82
+2021,Brazil,Energy Production,361.62
+2021,Australia,Transportation,349.29
+2021,Australia,Industry,495.72
+2021,Australia,Residential,72.91
+2021,Australia,Agriculture,61.01
+2021,Australia,Energy Production,364.93
+2021,Japan,Transportation,293.41
+2021,Japan,Industry,144.34
+2021,Japan,Residential,48.92
+2021,Japan,Agriculture,51.97
+2021,Japan,Energy Production,448.15
+2022,USA,Transportation,104.01
+2022,USA,Industry,168.45
+2022,USA,Residential,121.06
+2022,USA,Agriculture,183.95
+2022,USA,Energy Production,44.02
+2022,Canada,Transportation,264.34
+2022,Canada,Industry,43.13
+2022,Canada,Residential,402.17
+2022,Canada,Agriculture,124.52
+2022,Canada,Energy Production,274.61
+2022,India,Transportation,441.24
+2022,India,Industry,328.93
+2022,India,Residential,271.15
+2022,India,Agriculture,168.92
+2022,India,Energy Production,173.17
+2022,China,Transportation,338.05
+2022,China,Industry,497.13
+2022,China,Residential,334.3
+2022,China,Agriculture,283.31
+2022,China,Energy Production,368.02
+2022,Germany,Transportation,237.95
+2022,Germany,Industry,39.47
+2022,Germany,Residential,285.53
+2022,Germany,Agriculture,479.24
+2022,Germany,Energy Production,95.9
+2022,UK,Transportation,348.1
+2022,UK,Industry,108.46
+2022,UK,Residential,272.56
+2022,UK,Agriculture,57.37
+2022,UK,Energy Production,230.68
+2022,France,Transportation,380.52
+2022,France,Industry,180.31
+2022,France,Residential,335.81
+2022,France,Agriculture,399.77
+2022,France,Energy Production,464.32
+2022,Brazil,Transportation,124.97
+2022,Brazil,Industry,205.66
+2022,Brazil,Residential,84.68
+2022,Brazil,Agriculture,496.32
+2022,Brazil,Energy Production,464.23
+2022,Australia,Transportation,274.58
+2022,Australia,Industry,422.6
+2022,Australia,Residential,265.27
+2022,Australia,Agriculture,315.56
+2022,Australia,Energy Production,53.67
+2022,Japan,Transportation,380.08
+2022,Japan,Industry,72.58
+2022,Japan,Residential,414.77
+2022,Japan,Agriculture,393.19
+2022,Japan,Energy Production,357.28
+2023,USA,Transportation,27.72
+2023,USA,Industry,158.53
+2023,USA,Residential,138.93
+2023,USA,Agriculture,186.47
+2023,USA,Energy Production,52.94
+2023,Canada,Transportation,469.11
+2023,Canada,Industry,281.36
+2023,Canada,Residential,159.71
+2023,Canada,Agriculture,204.52
+2023,Canada,Energy Production,229.13
+2023,India,Transportation,304.29
+2023,India,Industry,262.68
+2023,India,Residential,460.5
+2023,India,Agriculture,253.51
+2023,India,Energy Production,496.16
+2023,China,Transportation,427.2
+2023,China,Industry,112.17
+2023,China,Residential,465.99
+2023,China,Agriculture,67.02
+2023,China,Energy Production,410.55
+2023,Germany,Transportation,196.51
+2023,Germany,Industry,440.21
+2023,Germany,Residential,435.35
+2023,Germany,Agriculture,404.9
+2023,Germany,Energy Production,397.11
+2023,UK,Transportation,159.29
+2023,UK,Industry,49.65
+2023,UK,Residential,207.46
+2023,UK,Agriculture,95.03
+2023,UK,Energy Production,350.53
+2023,France,Transportation,179.59
+2023,France,Industry,488.05
+2023,France,Residential,324.08
+2023,France,Agriculture,413.02
+2023,France,Energy Production,74.94
+2023,Brazil,Transportation,432.39
+2023,Brazil,Industry,462.15
+2023,Brazil,Residential,248.66
+2023,Brazil,Agriculture,307.06
+2023,Brazil,Energy Production,384.76
+2023,Australia,Transportation,95.67
+2023,Australia,Industry,256.26
+2023,Australia,Residential,205.34
+2023,Australia,Agriculture,81.72
+2023,Australia,Energy Production,190.09
+2023,Japan,Transportation,43.4
+2023,Japan,Industry,22.65
+2023,Japan,Residential,76.23
+2023,Japan,Agriculture,481.93
+2023,Japan,Energy Production,279.27
+2024,USA,Transportation,483.25
+2024,USA,Industry,221.92
+2024,USA,Residential,162.79
+2024,USA,Agriculture,258.01
+2024,USA,Energy Production,225.36
+2024,Canada,Transportation,61.78
+2024,Canada,Industry,324.0
+2024,Canada,Residential,115.86
+2024,Canada,Agriculture,313.6
+2024,Canada,Energy Production,328.6
+2024,India,Transportation,84.49
+2024,India,Industry,40.06
+2024,India,Residential,392.57
+2024,India,Agriculture,235.3
+2024,India,Energy Production,38.5
+2024,China,Transportation,497.48
+2024,China,Industry,38.31
+2024,China,Residential,350.57
+2024,China,Agriculture,492.0
+2024,China,Energy Production,127.2
+2024,Germany,Transportation,79.7
+2024,Germany,Industry,69.48
+2024,Germany,Residential,158.6
+2024,Germany,Agriculture,59.51
+2024,Germany,Energy Production,349.16
+2024,UK,Transportation,40.52
+2024,UK,Industry,259.62
+2024,UK,Residential,498.38
+2024,UK,Agriculture,408.85
+2024,UK,Energy Production,311.46
+2024,France,Transportation,160.06
+2024,France,Industry,315.71
+2024,France,Residential,268.25
+2024,France,Agriculture,218.78
+2024,France,Energy Production,74.05
+2024,Brazil,Transportation,444.44
+2024,Brazil,Industry,230.39
+2024,Brazil,Residential,105.37
+2024,Brazil,Agriculture,190.2
+2024,Brazil,Energy Production,212.92
+2024,Australia,Transportation,415.49
+2024,Australia,Industry,369.47
+2024,Australia,Residential,386.96
+2024,Australia,Agriculture,15.41
+2024,Australia,Energy Production,213.92
+2024,Japan,Transportation,245.86
+2024,Japan,Industry,19.4
+2024,Japan,Residential,137.31
+2024,Japan,Agriculture,382.54
+2024,Japan,Energy Production,77.18

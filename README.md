@@ -78,4 +78,19 @@ _(Dashboard created in Tableau, file: CO2_Emissions_Analysis.twbx)_
 1. Clone this repo and download all files
 2. Run `.sql` scripts in BigQuery or your preferred SQL engine
 3. Load the CSV in Tableau
-4. Open `.twbx`
+4. Open `.twbx` to view the full dashboard
+
+---
+
+🔮 Future Enhancements
+
+- Add per capita emission comparisons
+- Integrate real-time emissions data via public APIs
+- Expand dashboard with dynamic filters and drill-downs
+
+---
+
+👤 Author  
+**Akash Pandya**  
+Freelance Data Analyst | SQL, Tableau, R, Excel  
+[Portfolio Website](https://aakashpandya.netlify.app) • [GitHub](https://github.com/akashpandya) • [LinkedIn](https://www.linkedin.com/in/akash-pandya100/)

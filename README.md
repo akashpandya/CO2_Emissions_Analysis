@@ -2,8 +2,7 @@ CO₂ Emissions Analysis (SQL + Tableau)
 
 ## Project Overview
 
-This project analyzes global CO₂ emissions data to identify long-term trends, compare developed and developing countries, examine emissions by industry sector, and highlight the countries contributing most to overall emissions.
-
+This project analyzes global CO₂ emissions data to identify long-term trends, compare developed and developing countries, examine emissions by industry sector, and highlight the countries contributing the most emissions within the dataset
 The project was built using SQL for data cleaning and analysis, and Tableau for dashboard development and visualization.
 
 ---

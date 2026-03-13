@@ -10,8 +10,6 @@ The project was built using SQL for data cleaning and analysis, and Tableau for 
 
 ## Tools Used
 
-## Tools Used
-
 - SQL — data cleaning, joins, aggregation, and trend analysis
 - Tableau — dashboards and data visualization
 - CSV dataset — source data for emissions analysis
@@ -35,20 +33,22 @@ The project was built using SQL for data cleaning and analysis, and Tableau for 
 
 ---
 
-## Tableau Visualizations
+## Visualizations
 
-### CO₂ Emissions Trends (Developed vs Developing, 1990–2024)
-![CO₂ Trends](CO2_Emmission_Trends_Developed_VS_Developing_Countries_1990-2024.png)
+### CO₂ Emissions Trends (Developed vs Developing)
+![Emissions Trends](images/emissions_trends.png)
 
 ### Emissions by Industry Sector
-![By Sector](CO2_Emmissions_By_Industry_Sector.png)
+![Industry Emissions](images/industry_emissions.png)
 
 ### Total Emissions by Country
-![By Country](Total_CO2_Emissions_By_Country.png)
+![Country Emissions](images/country_emissions.png)
 
-### Final Dashboard Overview
-![Final Dashboard](CO2_Emmisisions_Final_Dashboard.png)
+## Tableau Dashboard
 
+The following dashboard summarizes the key trends identified in the analysis.
+
+![Dashboard](images/co2_dashboard.png)
 
 _(Dashboard created in Tableau, file: CO2_Emissions_Analysis.twbx)_
 

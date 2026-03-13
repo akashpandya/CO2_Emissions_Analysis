@@ -34,8 +34,6 @@ The project was built using SQL for data cleaning and analysis, and Tableau for 
 
 ## Visualizations
 
-## Visualizations
-
 ### CO₂ Emissions Trends (Developed vs Developing)
 ![CO2 Trends](images/CO2_Emmission_Trends_Developed_VS_Developing_Countries_1990-2024.png)
 

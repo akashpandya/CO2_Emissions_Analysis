@@ -34,8 +34,10 @@ The project was built using SQL for data cleaning and analysis, and Tableau for 
 
 ## Visualizations
 
+## Visualizations
+
 ### CO₂ Emissions Trends (Developed vs Developing)
-![Emissions Trends](images/emissions_trends.png)
+![CO2 Emissions Trends](images/emissions_trends.png)
 
 ### Emissions by Industry Sector
 ![Industry Emissions](images/industry_emissions.png)
@@ -45,9 +47,9 @@ The project was built using SQL for data cleaning and analysis, and Tableau for 
 
 ## Tableau Dashboard
 
-The following dashboard summarizes the key trends identified in the analysis.
+The following dashboard summarizes the key insights identified during the analysis.
 
-![Dashboard](images/co2_dashboard.png)
+![CO2 Dashboard](images/dashboard.png)
 
 _(Dashboard created in Tableau, file: CO2_Emissions_Analysis.twbx)_
 

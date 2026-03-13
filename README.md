@@ -43,11 +43,12 @@ The project was built using SQL for data cleaning and analysis, and Tableau for 
 ### Emissions by Industry Sector
 ![By Sector](CO2_Emmissions_By_Industry_Sector.png)
 
+### Total Emissions by Country
+![By Country](Total_CO2_Emissions_By_Country.png)
+
 ### Final Dashboard Overview
 ![Final Dashboard](CO2_Emmisisions_Final_Dashboard.png)
 
-### Total Emissions by Country
-![By Country](Total_CO2_Emissions_By_Country.png)
 
 _(Dashboard created in Tableau, file: CO2_Emissions_Analysis.twbx)_
 
@@ -55,26 +56,26 @@ _(Dashboard created in Tableau, file: CO2_Emissions_Analysis.twbx)_
 
 ## Key Insights
 
-- Developed nations show fluctuating but declining emissions, while developing nations trend upward
-- Energy production and transportation are leading sectors in global CO₂ output
-- Japan, Germany, and India are among the top contributors in the dataset analyzed
+- Developed countries in this dataset show fluctuating but gradually declining emissions, while developing countries show a more upward trend over time.
+- Energy production and transportation are the largest contributing sectors in the dataset analyzed.
+- Country-level results show that emissions are concentrated among a relatively small group of high-output nations within the dataset.
 
 ---
 
 ## How to Reproduce
 
-1. Clone this repo and download all files
-2. Run `.sql` scripts in BigQuery or your preferred SQL engine
-3. Load the CSV in Tableau
-4. Open `.twbx` to view the full dashboard
+1. Download or clone this repository
+2. Load the dataset into your SQL environment
+3. Run the SQL scripts to clean and analyze the data
+4. Open the Tableau workbook to review the dashboard
 
 ---
 
 ## Future Enhancements
 
-- Add per capita emission comparisons
-- Integrate real-time emissions data via public APIs
-- Expand dashboard with dynamic filters and drill-downs
+- Add per-capita emissions analysis
+- Include additional countries and more recent data
+- Publish an interactive version of the Tableau dashboard
 
 ---
 

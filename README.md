@@ -1,4 +1,4 @@
-CO₂ Emissions Analysis (SQL + Tableau)
+### CO₂ Emissions Analysis (SQL + Tableau)
 
 ## Project Overview
 

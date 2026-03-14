@@ -6,17 +6,18 @@ This project analyzes global CO₂ emissions data to identify long-term trends, 
 The project was built using SQL for data cleaning and analysis, and Tableau for dashboard development and visualization.
 
 ---
+## Business Question
+
+How have global CO₂ emissions evolved over time, and which sectors and countries contribute the most to global emissions?
+---
 
 ## Key Insights
 
-• Developed countries historically produced the largest CO₂ emissions,
-  but developing nations show faster growth in recent decades.
+• Energy production is the largest contributor to global CO₂ emissions.
 
-• The energy production sector contributes the largest share of emissions
-  compared to transportation, industry, and residential sectors.
+• Developing countries show the fastest growth in emissions in recent decades.
 
-• Countries such as China, the USA, and India dominate global emissions
-  due to industrialization and population size.
+• China, the United States, and India dominate total emissions due to industrialization and population size.
 
 ## Tools Used
 

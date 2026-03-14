@@ -7,6 +7,17 @@ The project was built using SQL for data cleaning and analysis, and Tableau for 
 
 ---
 
+## Key Insights
+
+• Developed countries historically produced the largest CO₂ emissions,
+  but developing nations show faster growth in recent decades.
+
+• The energy production sector contributes the largest share of emissions
+  compared to transportation, industry, and residential sectors.
+
+• Countries such as China, the USA, and India dominate global emissions
+  due to industrialization and population size.
+
 ## Tools Used
 
 - SQL — data cleaning, joins, aggregation, and trend analysis
